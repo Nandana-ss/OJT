@@ -1,4 +1,4 @@
-# Write a Python program to print the multiplication table of a number using a for loop.(15-05-2024)
+# Write a Python program to print the multiplication table of a number using a for loop.(16-05-2024)
 a=int(input("enter the first number: "))
 if a>0:
     for i in range(1,13):
