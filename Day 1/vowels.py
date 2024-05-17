@@ -1,4 +1,4 @@
-# Write a Python program to count the number of vowels in a string.(15-05-2024)
+# Write a Python program to count the number of vowels in a string.(16-05-2024)
 word=input("enter the word:")
 split_word=word.upper()
 count=0
