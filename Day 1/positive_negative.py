@@ -1,4 +1,4 @@
-# Write a Python program to check if a number is positive, negative, or zero.(15-05-2024)
+# Write a Python program to check if a number is positive, negative, or zero.(16-05-2024)
 a=int(input("enter the first number: "))
 if a==0 :
     print("The number is zero")
